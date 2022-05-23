@@ -1,7 +1,7 @@
 # R-Portfolio
 Projects done with R 
 
-- ## [How Does a Bike-Share Navigate Speedy Success(Google Capstone Projects](https://github.com/oluwatosin17/Google-Data-Analytics-/blob/main/Capstone%20Project/Case%20Study%201%20How%20Does%20a%20Bike-Share%20Navigate%20Speedy%20Success.Rmd)
+- ## [How Does a Bike-Share Navigate Speedy Success(Google Capstone Project)](https://github.com/oluwatosin17/Google-Data-Analytics-/blob/main/Capstone%20Project/Case%20Study%201%20How%20Does%20a%20Bike-Share%20Navigate%20Speedy%20Success.Rmd)
 - ## [Mobile App for Lottery Addiction](https://github.com/oluwatosin17/Probability-Fundamental-in-R/blob/main/Guided%20Project%20Mobile%20App%20for%20Lottery%20Addiction.Rmd)
 - ## [Analyzing Movie Ratings](https://github.com/oluwatosin17/Web-Scraping-in-R/blob/main/Guided%20Project:%20Analyzing%20Movie%20Ratings/Guided%20Project%20Analyzing%20Movie%20Rating.Rmd)
 - ## [ew York Solar Resource Data](https://github.com/oluwatosin17/APIs-in-R/blob/main/Guided%20Project:%20New%20York%20Solar%20Resource%20Data/Guided%20Project%20Solar.Rmd)
